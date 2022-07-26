@@ -1,15 +1,24 @@
 
-# Project Title
+# CRUD Operation
 
-A brief description of what this project does and who it's for
+This is a Node-Express project for CRUD operation.
+CRUD is an acronym that stands for CREATE, READ, UPDATE, and DELETE.
 
+## Screenshots of Postman
+
+![](./image/ss.png)
+
+## Screenshots of browser 
+'localhost:5000/users'
+
+![](./image/ss1.png)
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/abhaypsamrat/CRUD-API.git
 ```
 
 Go to the project directory
@@ -29,10 +38,3 @@ Start the server
 ```bash
   node index.js
 ```
-
-
-## Screenshots
-
-<!-- ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here) -->
-
-![](/images/ss.png)
